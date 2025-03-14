@@ -8,6 +8,7 @@ function App() {
     <>
     <h1>Hello from main branch!</h1>
     <p>no-fast-forward merge</p>
+    <p>This is a rebase example.</p>
      <Button>BTN</Button>
     </>
   )
